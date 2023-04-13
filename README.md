@@ -1,0 +1,1 @@
+# int-PINA0-0-int-lectura-0-int-Ve-5-float-VR-0-float-R1-10000-float-R2-0-float-A-
